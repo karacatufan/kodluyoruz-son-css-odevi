@@ -7,5 +7,5 @@ Bu çalışmada Google'ın günümüzdeki görünümünün benzeri yapılmaya ç
 
 <h2> Ödev'in görünümü </h2>
 
-<img src="https://www.hizliresim.com/bmz80kd" alt="odev-gorunum">
+<img src="https://www.hizliresim.com/bmz80kd" alt="odev-gorunum" width"500px">
 
