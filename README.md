@@ -4,6 +4,6 @@ Bu çalışmada Google'ın günümüzdeki görünümünün benzeri yapılmaya ç
 
 <a href="https://app.patika.dev/karacatufan">Patika.dev adresim</a>
 
-##Ödev'in görünümü
+#Ödev'in görünümü
 
 <img src="https://www.hizliresim.com/bmz80kd" alt="odev-gorunum">
